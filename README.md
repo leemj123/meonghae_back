@@ -19,6 +19,11 @@
 > - Dio - API 통신 라이브러리
 > - Provider - 전역 상태 관리 라이브러리
 > ### 백
+>
+> ### ERD 구성도
+> 
+> ![image](https://github.com/leemj123/meonghae_back/assets/100738591/385e2bf8-826d-43d7-88b2-3ecb69f8b782)
+
 > - Spring Framework
     >    - Spring Boot - 스프링 기반 프레임워크
 >    - Spring Cloud - MSA 구성 지원 프레임워크
